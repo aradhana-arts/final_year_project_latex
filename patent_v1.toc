@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}}{3}{}%
+\contentsline {section}{\numberline {1.1}INTRODUCTION}{3}{}%
+\contentsline {section}{\numberline {1.2}ABSTRACT}{3}{}%
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{5}{}%
+\contentsline {section}{\numberline {2.1}CONCLUSION}{6}{}%
+\contentsline {chapter}{\numberline {3}AIM AND OBJECTIVES}{7}{}%
+\contentsline {section}{\numberline {3.1}Aim}{7}{}%
+\contentsline {section}{\numberline {3.2}Objectives}{7}{}%
+\contentsline {section}{\numberline {3.3}Methodology}{7}{}%
+\contentsline {section}{\numberline {3.4}Specifications of the System}{9}{}%
+\contentsline {subsection}{\numberline {3.4.1}Depth estimation unit}{9}{}%
+\contentsline {subsection}{\numberline {3.4.2}Microprocessor}{9}{}%
+\contentsline {subsection}{\numberline {3.4.3}Mechanical unit}{10}{}%
+\contentsline {subsection}{\numberline {3.4.4}Audio processor unit}{10}{}%
+\contentsline {subsection}{\numberline {3.4.5}Speakers}{10}{}%
+\contentsline {chapter}{\numberline {4}BLOCK DIAGRAM OF THE SYSTEM}{11}{}%
