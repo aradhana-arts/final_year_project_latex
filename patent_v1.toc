@@ -9,8 +9,19 @@
 \contentsline {section}{\numberline {3.3}Methodology}{7}{}%
 \contentsline {section}{\numberline {3.4}Specifications of the System}{9}{}%
 \contentsline {subsection}{\numberline {3.4.1}Depth estimation unit}{9}{}%
+\contentsline {subsubsection}{Web Cam}{9}{}%
 \contentsline {subsection}{\numberline {3.4.2}Microprocessor}{9}{}%
 \contentsline {subsection}{\numberline {3.4.3}Mechanical unit}{10}{}%
+\contentsline {subsubsection}{Servo Motors}{10}{}%
 \contentsline {subsection}{\numberline {3.4.4}Audio processor unit}{10}{}%
-\contentsline {subsection}{\numberline {3.4.5}Speakers}{10}{}%
-\contentsline {chapter}{\numberline {4}BLOCK DIAGRAM OF THE SYSTEM}{11}{}%
+\contentsline {subsubsection}{Audio Amplifier}{10}{}%
+\contentsline {subsubsection}{Digital Potentiometer}{10}{}%
+\contentsline {subsection}{\numberline {3.4.5}Speakers}{11}{}%
+\contentsline {chapter}{\numberline {4}BLOCK DIAGRAM OF THE SYSTEM}{12}{}%
+\contentsline {section}{\numberline {4.1}Depth estimation unit}{14}{}%
+\contentsline {section}{\numberline {4.2}Micro-processor}{14}{}%
+\contentsline {section}{\numberline {4.3}Mechanical Unit}{14}{}%
+\contentsline {section}{\numberline {4.4}Audio Processing Unit}{14}{}%
+\contentsline {subsection}{\numberline {4.4.1}Audio amplifier}{15}{}%
+\contentsline {subsection}{\numberline {4.4.2}Digital potentiometer}{15}{}%
+\contentsline {section}{\numberline {4.5}Speakers}{15}{}%
