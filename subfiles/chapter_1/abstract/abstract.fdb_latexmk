@@ -1,9 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1614843179 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.pdf" "abstract" 1614843180
-  "../../../patent_v1.tex" 1614843179 1518 76b6dc3201a77ecdd6145ec439c35bf3 ""
+["pdflatex"] 1614944790 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.pdf" "abstract" 1614945054
   "/etc/texmf/web2c/texmf.cnf" 1607978899 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.aux" 1614843180 32 3985256e7290058c681f74d7a3565a19 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.tex" 1614843178 1321 342e6843ee9caf1508c934d7dd0bc902 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.aux" 1614944790 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.tex" 1614945054 1332 7ae4284319f0040fc0b046fd80a32df5 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
@@ -42,11 +41,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1610573251 38841 799d1dd9682a55ce442e10c99777ecc1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1612537370 5137192 2df456b6b9fcc99fd985ca7b3a0a7d40 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612537383 2569189 88fdc85ba569a63f6423069c912cfafa ""
-  "abstract.aux" 1614843180 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "abstract.tex" 1614843178 1321 342e6843ee9caf1508c934d7dd0bc902 ""
+  "subfiles/chapter_1/abstract/../../../patent_v1.tex" 1614944052 3916 f639118ec463d9499bd49727c974632c ""
+  "subfiles/chapter_1/abstract/abstract.aux" 1614944790 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "subfiles/chapter_1/abstract/abstract.tex" 1614945054 1332 7ae4284319f0040fc0b046fd80a32df5 ""
   (generated)
-  "abstract.pdf"
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.log"
-  "abstract.log"
+  "subfiles/chapter_1/abstract/abstract.log"
+  "subfiles/chapter_1/abstract/abstract.pdf"
+  "subfiles/chapter_1/abstract/abstract.aux"
   "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.pdf"
-  "abstract.aux"
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_1/abstract/abstract.log"

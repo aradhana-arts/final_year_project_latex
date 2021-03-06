@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  4 MAR 2021 13:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  5 MAR 2021 18:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,12 +206,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <../../.././images//sound_waves.png, id=1, 1023.825pt x 448.67625pt>
 File: ../../.././images//sound_waves.png Graphic file (type png)
 <use ../../.././images//sound_waves.png>
-Package pdftex.def Info: ../../.././images//sound_waves.png  used on input line 15.
+Package pdftex.def Info: ../../.././images//sound_waves.png  used on input line 16.
 (pdftex.def)             Requested size: 229.5pt x 100.57126pt.
 <../../.././images//sound_propogation_for_speaker.png, id=2, 1927.2pt x 1084.05pt>
 File: ../../.././images//sound_propogation_for_speaker.png Graphic file (type png)
 <use ../../.././images//sound_propogation_for_speaker.png>
-Package pdftex.def Info: ../../.././images//sound_propogation_for_speaker.png  used on input line 25.
+Package pdftex.def Info: ../../.././images//sound_propogation_for_speaker.png  used on input line 27.
 (pdftex.def)             Requested size: 469.0pt x 263.79985pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -219,7 +219,7 @@ Package pdftex.def Info: ../../.././images//sound_propogation_for_speaker.png  u
 <../../.././images//reverberation.png, id=11, 454.69875pt x 405.515pt>
 File: ../../.././images//reverberation.png Graphic file (type png)
 <use ../../.././images//reverberation.png>
-Package pdftex.def Info: ../../.././images//reverberation.png  used on input line 44.
+Package pdftex.def Info: ../../.././images//reverberation.png  used on input line 46.
 (pdftex.def)             Requested size: 229.5pt x 204.67516pt.
  [2 </home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_3/methodology/../../.././images//sound_propogation_for_speaker.png> </home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_3/methodology/../../.././images//reverberation.png>] [3
 
@@ -233,7 +233,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  88i,5n,92p,321b,480s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_3/methodology/methodology.pdf (3 pages, 710523 bytes).
+Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_3/methodology/methodology.pdf (3 pages, 710513 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

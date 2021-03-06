@@ -1,9 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1614843388 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.pdf" "literature_survey" 1614843389
-  "../../../patent_v1.tex" 1614843179 1518 76b6dc3201a77ecdd6145ec439c35bf3 ""
+["pdflatex"] 1614946434 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.pdf" "literature_survey" 1614946434
   "/etc/texmf/web2c/texmf.cnf" 1607978899 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.aux" 1614843389 32 3985256e7290058c681f74d7a3565a19 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.tex" 1614843388 2942 a5dfe38e214e81c0500975bd5756ab35 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.aux" 1614946434 32 3985256e7290058c681f74d7a3565a19 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.tex" 1614946433 2968 43efc5428161ed2783443a2776ad8b1f ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm" 1136768653 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -44,11 +43,12 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1610573251 38841 799d1dd9682a55ce442e10c99777ecc1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1612537370 5137192 2df456b6b9fcc99fd985ca7b3a0a7d40 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612537383 2569189 88fdc85ba569a63f6423069c912cfafa ""
-  "literature_survey.aux" 1614843389 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "literature_survey.tex" 1614843388 2942 a5dfe38e214e81c0500975bd5756ab35 ""
+  "subfiles/chapter_2/literature_survey/../../../patent_v1.tex" 1614945239 3916 f639118ec463d9499bd49727c974632c ""
+  "subfiles/chapter_2/literature_survey/literature_survey.aux" 1614946434 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "subfiles/chapter_2/literature_survey/literature_survey.tex" 1614946433 2968 43efc5428161ed2783443a2776ad8b1f ""
   (generated)
+  "subfiles/chapter_2/literature_survey/literature_survey.pdf"
+  "subfiles/chapter_2/literature_survey/literature_survey.aux"
+  "subfiles/chapter_2/literature_survey/literature_survey.log"
   "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.log"
   "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_2/literature_survey/literature_survey.pdf"
-  "literature_survey.aux"
-  "literature_survey.log"
-  "literature_survey.pdf"
