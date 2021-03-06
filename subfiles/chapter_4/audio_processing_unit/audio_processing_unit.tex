@@ -1,0 +1,42 @@
+\documentclass[../block_diagram_intro/block_diagram_intro.tex]{subfiles}
+
+\begin{document}
+
+Usually, a surround sound system contains two or more speakers to generate a sound 
+effect of moving objects from one place to another.
+
+Even if we direct the speakers towards the listener's direction, it is necessary to 
+adjust each speaker's sound levels according to the depth of the listener from each 
+speaker.
+
+The audio processor unit assembles with 4 class AB audio amplifiers driven by two 
+two-channel digital potentiometers for controlling each speaker's sound levels to adjust 
+the sound pocket over the listener's head (ears).
+
+\subsection{Audio amplifier}
+
+An audio amplifier is a circuitry designed to increase the applied signal's magnitude 
+to power a low resistance load (speakers).
+
+Sound signals are applied to the non-inverting terminal of an amplifier through a 
+voltage divider circuitry (potentiometer). This voltage divider adjusts the input 
+signal's voltage levels, resulting in a change in volume levels at the output. This 
+change is inversely proportional to the resistance at the wiper terminal of the voltage 
+divider.
+
+For this application, we are using LM386N-1 as our amplifier.
+
+\subsection{Digital potentiometer}
+
+Digital potentiometers mimic the analog functions of a mechanical potentiometer where 
+micro-controllers or microprocessors control the resistance.
+
+As we discussed, to adjust the audio amplifier's sound output, we adjust the input 
+voltage given to the non-inverting terminal of the amplifier. Hence, we supply the 
+audio signal to the amplifier through a digital potentiometer to increase and decrease 
+input voltage and, hence, the speaker digitally using a micro-controller or a 
+microprocessor.
+
+For this application, we are using SPI-compatible MCP42010 Digital POT.
+
+\end{document}
