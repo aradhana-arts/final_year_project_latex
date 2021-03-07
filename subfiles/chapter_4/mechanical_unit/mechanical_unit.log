@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  4 MAR 2021 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  7 MAR 2021 16:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -186,8 +186,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:16: Undefined control sequence.
-l.16 \section
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:15: Undefined control sequence.
+l.15 \section
              {Depth estimation unit}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -195,8 +195,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:18: Undefined control sequence.
-l.18 \subfile
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:17: Undefined control sequence.
+l.17 \subfile
              {../depth_estimation_unit/depth_estimation_unit.tex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -204,16 +204,16 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:18: Missing $ inserted.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:17: Missing $ inserted.
 <inserted text> 
                 $
-l.18 \subfile{../depth_
+l.17 \subfile{../depth_
                        estimation_unit/depth_estimation_unit.tex}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:18: Extra }, or forgotten $.
-l.18 ...estimation_unit/depth_estimation_unit.tex}
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:17: Extra }, or forgotten $.
+l.17 ...estimation_unit/depth_estimation_unit.tex}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -221,16 +221,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:19: Missing $ inserted.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:18: Missing $ inserted.
 <inserted text> 
                 $
-l.19 
+l.18 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:20: Undefined control sequence.
-l.20 \section
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:19: Undefined control sequence.
+l.19 \section
              {Micro-processor}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -238,8 +238,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:22: Undefined control sequence.
-l.22 \subfile
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:21: Undefined control sequence.
+l.21 \subfile
              {../micro_processor/micro_processor.tex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -247,16 +247,16 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:22: Missing $ inserted.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:21: Missing $ inserted.
 <inserted text> 
                 $
-l.22 \subfile{../micro_
+l.21 \subfile{../micro_
                        processor/micro_processor.tex}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:22: Extra }, or forgotten $.
-l.22 ...le{../micro_processor/micro_processor.tex}
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:21: Extra }, or forgotten $.
+l.21 ...le{../micro_processor/micro_processor.tex}
                                                   
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -264,16 +264,16 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:23: Missing $ inserted.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:22: Missing $ inserted.
 <inserted text> 
                 $
-l.23 
+l.22 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:24: Undefined control sequence.
-l.24 \section
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:23: Undefined control sequence.
+l.23 \section
              {Mechanical Unit}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -281,8 +281,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:28: Undefined control sequence.
-l.28 \section
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:26: Undefined control sequence.
+l.26 \section
              {Audio Processing Unit}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -290,26 +290,42 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:40: Undefined control sequence.
-l.40 \subsection
-                {Audio amplifier}
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:28: Undefined control sequence.
+l.28 \subfile
+             {../audio_processing_unit/audio_processing_unit.tex}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:52: Undefined control sequence.
-l.52 \subsection
-                {Digital potentiometer}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+l.28 \subfile{../audio_
+                       processing_unit/audio_processing_unit.tex}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:64: Undefined control sequence.
-l.64 \section
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:28: Extra }, or forgotten $.
+l.28 ...processing_unit/audio_processing_unit.tex}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:29: Missing $ inserted.
+<inserted text> 
+                $
+l.29 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:30: Undefined control sequence.
+l.30 \section
              {Speakers}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -318,14 +334,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:69: LaTeX Error: The font size command \normalsize is not defined:
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:36: LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \end{document}
+l.36 \end{document}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -333,14 +349,14 @@ or  <return>  to continue without it.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:69: Package hooks Error: Missing \PopDefaultHookLabel.
+/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/../block_diagram_intro/block_diagram_intro.tex:36: Package hooks Error: Missing \PopDefaultHookLabel.
 (hooks)                The label `subfiles' was pushed but never popped.
 (hooks)                Something is wrong.
 
 Type <return> to continue.
  ...                                              
                                                   
-l.69 \end{document}
+l.36 \end{document}
                    
 
 LaTeX does not know anything more about this error, sorry.
@@ -350,22 +366,23 @@ If that doesn't work, type X <return> to quit.
 
 
 (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/mechanical_unit.aux) ) ) )
-(\end occurred inside a group at level 2)
+(\end occurred inside a group at level 3)
 
-### simple group (level 2) entered at line 22 ({)
-### simple group (level 1) entered at line 18 ({)
+### simple group (level 3) entered at line 28 ({)
+### simple group (level 2) entered at line 21 ({)
+### simple group (level 1) entered at line 17 ({)
 ### bottom level
 (\end occurred when \ifx on line 2 was incomplete) 
 Here is how much of TeX's memory you used:
  245 strings out of 479304
  7224 string characters out of 5869780
- 282867 words of memory out of 5000000
+ 278867 words of memory out of 5000000
  17511 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,4n,63p,273b,81s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,4n,63p,253b,83s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/mechanical_unit.pdf (1 page, 42301 bytes).
+Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/mechanical_unit/mechanical_unit.pdf (1 page, 37598 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
