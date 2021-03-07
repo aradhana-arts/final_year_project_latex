@@ -14,7 +14,7 @@ In our case, these entities are people who are listening to the system. To class
 them from other objects from surroundings, we implement the Harr cascade face detection 
 algorithm to sort and cluster out these entities.
 
-Harr cascade is a cascade classifier that implements a machine learning approach based 
+Harr cascades is a cascade classifier that implements a machine learning approach based 
 on the Adaboost meta-algorithm.
 
 The rectangular shape of the face is meaningful in initializing the classifier. Further, 
@@ -23,7 +23,7 @@ and nose region. The second feature proposes that the eyes are darker than the b
 the nose. Similarly, this approach finds the entity's possible relations and features 
 and records the features for further prediction. 
 
-Once the face is detected, we can obtain the face's location from the origin (center of 
+Once the face is detected, we can obtain the face location from the origin (center of 
 the image).
 
 \subsubsection{Stereo Vision}
@@ -72,8 +72,8 @@ Here,
 \end{figure}
 
 Stereo vision depth-sensing works on the principle of angle-angle symmetry (AA symmetry 
-criterion) of two triangles. Using the AA symmetry criterion, we can state that if two 
-triangle's angles are congruent, then the third angle of both triangles must be the 
+criterion) of two triangles. Using the AA symmetry criterion, we can state that if angle
+of the two triangles are congruent, then the third angle of both triangles must be the 
 same. Hence, the ratio of each parallel side of triangles is equal.
 
 i.e.,
