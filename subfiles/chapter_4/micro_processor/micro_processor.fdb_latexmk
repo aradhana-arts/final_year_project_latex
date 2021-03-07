@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1614865755 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.pdf" "micro_processor" 1614865755
-  "../block_diagram_intro/block_diagram_intro.tex" 1614865693 3059 3bbb04edc5d0e2c7f945813a1c6bd949 ""
+["pdflatex"] 1615113862 "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.tex" "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.pdf" "micro_processor" 1615113862
   "/etc/texmf/web2c/texmf.cnf" 1607978899 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.aux" 1614865755 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.tex" 1614865755 1443 28b1a102721ec5721fb897015496eb90 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/../block_diagram_intro/block_diagram_intro.tex" 1615113859 906 fe7e338b9812ad0597f60e7ae6b80307 ""
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.aux" 1615113862 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.tex" 1615113861 1450 3df8aa3344dba1a971ede9449d68b27c ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -14,11 +14,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1610573251 38841 799d1dd9682a55ce442e10c99777ecc1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1612537370 5137192 2df456b6b9fcc99fd985ca7b3a0a7d40 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1612537383 2569189 88fdc85ba569a63f6423069c912cfafa ""
-  "micro_processor.aux" 0 -1 0 "pdflatex"
-  "micro_processor.tex" 1614865755 1443 28b1a102721ec5721fb897015496eb90 ""
   (generated)
   "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.pdf"
+  "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.aux"
   "/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/micro_processor/micro_processor.log"
-  "micro_processor.pdf"
-  "micro_processor.log"
-  "micro_processor.aux"
