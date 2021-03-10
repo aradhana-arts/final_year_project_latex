@@ -35,13 +35,13 @@ An image can be termed as a grid of pixels within some range of indices. Using f
 detection, we narrowed down the object's position in the grid of pixels (x, y). 
 
 Stereo vision gives two images of the same scene from different positions in the same 
-plane. Each image gives the deviation of the image from the origin of that respective 
+plane. Each image gives the disparity of the face from the origin of that respective 
 image.
 
 \begin{figure*}
     \centering
     \includegraphics[width=\textwidth]{stereo_vision_pixel_xl_xr.png}
-    \caption{Stereo vision showing the deviation from origins of both the cameras}
+    \caption{Stereo vision showing the disparity from origins of both the cameras}
 \end{figure*}
 
 \FloatBarrier
@@ -61,8 +61,8 @@ Here,
 \begin{description}
     \item[]x = Distance between two webcams. 
     \item[]f = Focal length of the webcams.
-    \item[]\(X_{L}\) = Deviation of the image from the origin of the left webcam.
-    \item[]\(X_{R}\) = Deviation of the image from the origin of the right webcam.  
+    \item[]\(X_{L}\) = Disparity of the image from the origin of the left webcam.
+    \item[]\(X_{R}\) = Disparity of the image from the origin of the right webcam.  
 \end{description}
 
 \begin{figure}[ht]
@@ -118,5 +118,7 @@ Finally, we get depth (z),
 \begin{equation}
     \boxed{\text{\large$ z = \frac{x \times f}{X_{L} + X_{R}} $}}
 \end{equation}
+
+\subsubsection{Focal length}
 
 \end{document}

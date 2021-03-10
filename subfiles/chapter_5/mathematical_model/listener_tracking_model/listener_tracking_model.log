@@ -1,19 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  7 MAR 2021 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.17)  10 MAR 2021 10:57
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.tex
-(/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
+**d:/workspace/final_year_project_latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.tex
+(d:/workspace/final_year_project_latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/subfiles\subfiles.cls
 Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../../hardware_design_intro/hardware_design_intro.tex'
-(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+(C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex
+) (d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:2: LaTeX Error: Option clash for document class subfiles.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:2: LaTeX Error: Option clash for document class subfiles.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -30,11 +27,11 @@ Adding the global options:
 to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count177
+(D:\installation_vault\latex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count175
 \l__pdf_internal_box=\box47
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.aux)
+) (d:/workspace\final_year_project_latex\subfiles\chapter_5\mathematical_model\listener_tracking_model\listener_tracking_model.aux)
 \openout1 = `listener_tracking_model.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -53,7 +50,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:3: LaTeX Error: The font size command \normalsize is not defined:
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:3: LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -67,7 +64,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:7: LaTeX Error: Environment description undefined.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:7: LaTeX Error: Environment description undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -80,7 +77,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:8: LaTeX Error: Lonely \item--perhaps a missing list environment.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:8: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -92,7 +89,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:9: LaTeX Error: Lonely \item--perhaps a missing list environment.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:9: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -104,7 +101,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:10: LaTeX Error: Lonely \item--perhaps a missing list environment.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:10: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -116,7 +113,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:11: LaTeX Error: Lonely \item--perhaps a missing list environment.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:11: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -128,7 +125,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:12: LaTeX Error: \begin{document} ended by \end{description}.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:12: LaTeX Error: \begin{document} ended by \end{description}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -140,7 +137,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:14: Undefined control sequence.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:14: Undefined control sequence.
 l.14 \section
              {Mathematical model}
 The control sequence at the end of the top line
@@ -149,7 +146,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:21: Undefined control sequence.
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:21: Undefined control sequence.
 l.21 \subsection
                 {Listener tracking model}
 The control sequence at the end of the top line
@@ -159,52 +156,33 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:24: LaTeX Error: The font size command \normalsize is not defined:
+d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.tex:23: LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.24 \end{document}
+l.23 \end{document}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/../../hardware_design_intro/hardware_design_intro.tex:24: Package hooks Error: Missing \PopDefaultHookLabel.
-(hooks)                The label `subfiles' was pushed but never popped.
-(hooks)                Something is wrong.
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.24 \end{document}
-                   
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-(/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.aux) ) ) )
+[1{C:/Users/nachi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (d:/workspace\final_year_project_latex\subfiles\chapter_5\mathematical_model\listener_tracking_model\listener_tracking_model.aux) ) ) )
 (\end occurred when \ifx on line 2 was incomplete) 
 Here is how much of TeX's memory you used:
- 243 strings out of 479304
- 7644 string characters out of 5869780
- 279032 words of memory out of 5000000
- 17509 multiletter control sequences out of 15000+600000
- 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 239 strings out of 480236
+ 7232 string characters out of 2888551
+ 269936 words of memory out of 3000000
+ 16869 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,4n,63p,288b,69s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/mathematical_model/listener_tracking_model/listener_tracking_model.pdf (1 page, 17260 bytes).
+ 51i,4n,57p,269b,69s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on d:/workspace\final_year_project_latex\subfiles\chapter_5\mathematical_model\listener_tracking_model\listener_tracking_model.pdf (1 page, 17882 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 10 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

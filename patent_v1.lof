@@ -13,6 +13,6 @@
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Block diagram}}{13}{}%
 \contentsline {figure}{\numberline {4.2}{\ignorespaces Assembly of the depth estimation unit}}{14}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Stereo vision showing the deviation from origins of both the cameras}}{17}{}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Stereo vision showing the disparity from origins of both the cameras}}{17}{}%
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Depth sensing geometrical model}}{17}{}%
 \contentsline {figure}{\numberline {5.3}{\ignorespaces AA symmetry criterion}}{17}{}%

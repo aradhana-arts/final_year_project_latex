@@ -1,19 +1,16 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  7 MAR 2021 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.17)  10 MAR 2021 10:54
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.tex
-(/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
+**d:/workspace/final_year_project_latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.tex
+(d:/workspace/final_year_project_latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/subfiles\subfiles.cls
 Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../block_diagram_intro/block_diagram_intro.tex'
-(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+(C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex
+) (../block_diagram_intro/block_diagram_intro.tex
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:2: LaTeX Error: Option clash for document class subfiles.
+../block_diagram_intro/block_diagram_intro.tex:2: LaTeX Error: Option clash for document class subfiles.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -30,11 +27,11 @@ Adding the global options:
 to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count177
+(D:\installation_vault\latex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count175
 \l__pdf_internal_box=\box47
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.aux)
+) (d:/workspace\final_year_project_latex\subfiles\chapter_4\depth_estimation_unit\depth_estimation_unit.aux)
 \openout1 = `depth_estimation_unit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -53,7 +50,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:3: LaTeX Error: The font size command \normalsize is not defined:
+../block_diagram_intro/block_diagram_intro.tex:3: LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -67,7 +64,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:5: LaTeX Error: Environment figure* undefined.
+../block_diagram_intro/block_diagram_intro.tex:5: LaTeX Error: Environment figure* undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -79,7 +76,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:6: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:6: Undefined control sequence.
 l.6     \includegraphics
                         [width=\textwidth]{block_diagram.png}
 The control sequence at the end of the top line
@@ -88,7 +85,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:6: Missing number, treated as zero.
+../block_diagram_intro/block_diagram_intro.tex:6: Missing number, treated as zero.
 <to be read again> 
                    ]
 l.6     \includegraphics[width=\textwidth]
@@ -97,7 +94,7 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:6: Illegal unit of measure (pt inserted).
+../block_diagram_intro/block_diagram_intro.tex:6: Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
 l.6     \includegraphics[width=\textwidth]
@@ -109,7 +106,7 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:6: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:6: Missing $ inserted.
 <inserted text> 
                 $
 l.6     \includegraphics[width=\textwidth]{block_
@@ -121,7 +118,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 6.
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:6: Extra }, or forgotten $.
+../block_diagram_intro/block_diagram_intro.tex:6: Extra }, or forgotten $.
 l.6 ...aphics[width=\textwidth]{block_diagram.png}
                                                   
 I've deleted a group-closing symbol because it seems to be
@@ -131,7 +128,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:7: LaTeX Error: \caption outside float.
+../block_diagram_intro/block_diagram_intro.tex:7: LaTeX Error: \caption outside float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -143,7 +140,7 @@ You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:8: LaTeX Error: \begin{document} ended by \end{figure*}.
+../block_diagram_intro/block_diagram_intro.tex:8: LaTeX Error: \begin{document} ended by \end{figure*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -155,7 +152,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:8: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:8: Missing $ inserted.
 <inserted text> 
                 $
 l.8 \end{figure*}
@@ -166,7 +163,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:8: Missing } inserted.
+../block_diagram_intro/block_diagram_intro.tex:8: Missing } inserted.
 <inserted text> 
                 }
 l.8 \end{figure*}
@@ -177,7 +174,7 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:10: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:10: Undefined control sequence.
 l.10 \FloatBarrier
                   
 The control sequence at the end of the top line
@@ -186,7 +183,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:15: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:15: Undefined control sequence.
 l.15 \section
              {Depth estimation unit}
 The control sequence at the end of the top line
@@ -195,7 +192,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:17: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:17: Undefined control sequence.
 l.17 \section
              {Micro-processor}
 The control sequence at the end of the top line
@@ -204,7 +201,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:19: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:19: Undefined control sequence.
 l.19 \subfile
              {../micro_processor/micro_processor.tex}
 The control sequence at the end of the top line
@@ -213,7 +210,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:19: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:19: Missing $ inserted.
 <inserted text> 
                 $
 l.19 \subfile{../micro_
@@ -221,7 +218,7 @@ l.19 \subfile{../micro_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:19: Extra }, or forgotten $.
+../block_diagram_intro/block_diagram_intro.tex:19: Extra }, or forgotten $.
 l.19 ...le{../micro_processor/micro_processor.tex}
                                                   
 I've deleted a group-closing symbol because it seems to be
@@ -230,7 +227,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:20: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:20: Missing $ inserted.
 <inserted text> 
                 $
 l.20 
@@ -238,7 +235,7 @@ l.20
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:21: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:21: Undefined control sequence.
 l.21 \section
              {Mechanical Unit}
 The control sequence at the end of the top line
@@ -247,7 +244,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:23: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:23: Undefined control sequence.
 l.23 \subfile
              {../mechanical_unit/mechanical_unit.tex}
 The control sequence at the end of the top line
@@ -256,7 +253,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:23: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:23: Missing $ inserted.
 <inserted text> 
                 $
 l.23 \subfile{../mechanical_
@@ -264,7 +261,7 @@ l.23 \subfile{../mechanical_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:23: Extra }, or forgotten $.
+../block_diagram_intro/block_diagram_intro.tex:23: Extra }, or forgotten $.
 l.23 ...le{../mechanical_unit/mechanical_unit.tex}
                                                   
 I've deleted a group-closing symbol because it seems to be
@@ -273,7 +270,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:24: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:24: Missing $ inserted.
 <inserted text> 
                 $
 l.24 
@@ -281,7 +278,7 @@ l.24
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:25: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:25: Undefined control sequence.
 l.25 \section
              {Audio Processing Unit}
 The control sequence at the end of the top line
@@ -290,7 +287,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:27: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:27: Undefined control sequence.
 l.27 \subfile
              {../audio_processing_unit/audio_processing_unit.tex}
 The control sequence at the end of the top line
@@ -299,7 +296,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:27: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:27: Missing $ inserted.
 <inserted text> 
                 $
 l.27 \subfile{../audio_
@@ -307,7 +304,7 @@ l.27 \subfile{../audio_
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:27: Extra }, or forgotten $.
+../block_diagram_intro/block_diagram_intro.tex:27: Extra }, or forgotten $.
 l.27 ...processing_unit/audio_processing_unit.tex}
                                                   
 I've deleted a group-closing symbol because it seems to be
@@ -316,7 +313,7 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:28: Missing $ inserted.
+../block_diagram_intro/block_diagram_intro.tex:28: Missing $ inserted.
 <inserted text> 
                 $
 l.28 
@@ -324,7 +321,7 @@ l.28
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:29: Undefined control sequence.
+../block_diagram_intro/block_diagram_intro.tex:29: Undefined control sequence.
 l.29 \section
              {Speakers}
 The control sequence at the end of the top line
@@ -334,7 +331,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:35: LaTeX Error: The font size command \normalsize is not defined:
+../block_diagram_intro/block_diagram_intro.tex:35: LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
@@ -347,25 +344,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/../block_diagram_intro/block_diagram_intro.tex:35: Package hooks Error: Missing \PopDefaultHookLabel.
-(hooks)                The label `subfiles' was pushed but never popped.
-(hooks)                Something is wrong.
-
-Type <return> to continue.
- ...                                              
-                                                  
-l.35 \end{document}
-                   
-
-LaTeX does not know anything more about this error, sorry.
-
-Try typing <return> to proceed.
-If that doesn't work, type X <return> to quit.
-
-
-(/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.aux) ) ) )
+[1{C:/Users/nachi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (d:/workspace\final_year_project_latex\subfiles\chapter_4\depth_estimation_unit\depth_estimation_unit.aux) ) ) )
 (\end occurred inside a group at level 3)
 
 ### simple group (level 3) entered at line 27 ({)
@@ -374,18 +353,17 @@ If that doesn't work, type X <return> to quit.
 ### bottom level
 (\end occurred when \ifx on line 2 was incomplete) 
 Here is how much of TeX's memory you used:
- 245 strings out of 479304
- 7356 string characters out of 5869780
- 278873 words of memory out of 5000000
- 17511 multiletter control sequences out of 15000+600000
- 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 241 strings out of 480236
+ 6939 string characters out of 2888551
+ 269798 words of memory out of 3000000
+ 16871 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,4n,63p,265b,83s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_4/depth_estimation_unit/depth_estimation_unit.pdf (1 page, 37432 bytes).
+ 51i,4n,57p,246b,83s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on d:/workspace\final_year_project_latex\subfiles\chapter_4\depth_estimation_unit\depth_estimation_unit.pdf (1 page, 39131 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 18 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

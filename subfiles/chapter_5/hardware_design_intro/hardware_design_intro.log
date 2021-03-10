@@ -1,52 +1,49 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.5)  7 MAR 2021 16:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.17)  10 MAR 2021 10:57
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.tex
-(/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
+**d:/workspace/final_year_project_latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.tex
+(d:/workspace/final_year_project_latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03> (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/subfiles\subfiles.cls
 Document Class: subfiles 2020/11/14 v2.2 Multi-file projects (class)
 Preamble taken from file `../../../patent_v1.tex'
-(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+(C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/../../../patent_v1.tex (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+) (d:/workspace\final_year_project_latex\patent_v1.tex (D:\installation_vault\latex\tex/latex/base\report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+(D:\installation_vault\latex\tex/latex/base\size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count177
-\c@chapter=\count178
-\c@section=\count179
-\c@subsection=\count180
-\c@subsubsection=\count181
-\c@paragraph=\count182
-\c@subparagraph=\count183
-\c@figure=\count184
-\c@table=\count185
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (D:\installation_vault\latex\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (D:\installation_vault\latex\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+) (D:\installation_vault\latex\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+ (D:\installation_vault\latex\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (D:\installation_vault\latex\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (D:\installation_vault\latex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip49
@@ -78,33 +75,33 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip75
 \cftfigindent=\skip76
 \cftfignumwidth=\skip77
-\c@lofdepth=\count186
-\c@lotdepth=\count187
+\c@lofdepth=\count184
+\c@lotdepth=\count185
 \cftbeforelottitleskip=\skip78
 \cftafterlottitleskip=\skip79
 \cftbeforetabskip=\skip80
 \cfttabindent=\skip81
 \cfttabnumwidth=\skip82
-) (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count188
+) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/siunitx\siunitx.sty (D:\installation_vault\latex\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-05 L3 programming layer (loader) 
+ (D:\installation_vault\latex\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count186
 \l__pdf_internal_box=\box47
-)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2020-10-27 L3 Experimental document command parser
- (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+)) (D:\installation_vault\latex\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2020-10-05 L3 Experimental document command parser
+ (D:\installation_vault\latex\tex/latex/l3packages/xparse\xparse-generic.tex))
 Package: siunitx 2020/02/25 v2.8b A comprehensive (SI) units package
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+ (D:\installation_vault\latex\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (D:\installation_vault\latex\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen141
-)) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+)) (D:\installation_vault\latex\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen142
 \ar@mcellbox=\box48
 \extrarowheight=\dimen143
@@ -112,32 +109,32 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \extratabsurround=\skip83
 \backup@length=\skip84
 \ar@cellbox=\box49
-) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+) (D:\installation_vault\latex\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-10-05 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
 \l__siunitx_tmp_dim=\dimen144
-\l__siunitx_tmp_int=\count189
-\l__siunitx_number_mantissa_length_int=\count190
-\l__siunitx_number_uncert_length_int=\count191
-\l__siunitx_round_int=\count192
-\l__siunitx_process_decimal_int=\count193
-\l__siunitx_process_uncertainty_int=\count194
-\l__siunitx_process_fixed_int=\count195
-\l__siunitx_process_integer_min_int=\count196
-\l__siunitx_process_precision_int=\count197
-\l__siunitx_group_min_int=\count198
+\l__siunitx_tmp_int=\count187
+\l__siunitx_number_mantissa_length_int=\count188
+\l__siunitx_number_uncert_length_int=\count189
+\l__siunitx_round_int=\count190
+\l__siunitx_process_decimal_int=\count191
+\l__siunitx_process_uncertainty_int=\count192
+\l__siunitx_process_fixed_int=\count193
+\l__siunitx_process_integer_min_int=\count194
+\l__siunitx_process_precision_int=\count195
+\l__siunitx_group_min_int=\count196
 \l__siunitx_angle_marker_box=\box51
 \l__siunitx_angle_unit_box=\box52
 \l__siunitx_angle_marker_dim=\dimen145
 \l__siunitx_angle_unit_dim=\dimen146
-\l__siunitx_unit_int=\count199
-\l__siunitx_unit_denominator_int=\count266
-\l__siunitx_unit_numerator_int=\count267
-\l__siunitx_unit_prefix_int=\count268
-\l__siunitx_unit_prefix_base_int=\count269
-\l__siunitx_unit_prefix_gram_int=\count270
-\l__siunitx_number_product_int=\count271
+\l__siunitx_unit_int=\count197
+\l__siunitx_unit_denominator_int=\count198
+\l__siunitx_unit_numerator_int=\count199
+\l__siunitx_unit_prefix_int=\count266
+\l__siunitx_unit_prefix_base_int=\count267
+\l__siunitx_unit_prefix_gram_int=\count268
+\l__siunitx_number_product_int=\count269
 \c__siunitx_one_fill_skip=\skip85
 \l__siunitx_table_unit_align_skip=\skip86
 \l__siunitx_table_exponent_dim=\dimen147
@@ -155,28 +152,28 @@ Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_result_box=\box56
 \l__siunitx_table_number_align_skip=\skip87
 \l__siunitx_table_text_align_skip=\skip88
- (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+ (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/translator\translator.sty
 Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
-)) (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
+)) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/subfiles\subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (D:\installation_vault\latex\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip89
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(D:\installation_vault\latex\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen156
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (D:\installation_vault\latex\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count272
+\inf@bad=\count270
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count273
-\leftroot@=\count274
+\uproot@=\count271
+\leftroot@=\count272
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count275
-\DOTSCASE@=\count276
+\classnum@=\count273
+\DOTSCASE@=\count274
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -185,15 +182,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen157
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count277
-\c@MaxMatrixCols=\count278
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
 \dotsspace@=\muskip16
-\c@parentequation=\count279
-\dspbrk@lvl=\count280
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
 \tag@help=\toks18
-\row@=\count281
-\column@=\count282
-\maxfields@=\count283
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
 \andhelp@=\toks19
 \eqnshift@=\dimen158
 \alignsep@=\dimen159
@@ -207,16 +204,16 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
-) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (D:\installation_vault\latex\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (D:\installation_vault\latex\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)))) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.aux)
+)))) (d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.aux)
 \openout1 = `hardware_design_intro.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -233,37 +230,35 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (D:\installation_vault\latex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
+\scratchcounter=\count282
 \scratchdimen=\dimen164
 \scratchbox=\box59
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\nofMPsegments=\count283
+\nofMParguments=\count284
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count287
+\MPscratchCnt=\count285
 \MPscratchDim=\dimen165
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
 \everyMPtoPDFconversion=\toks23
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (D:\installation_vault\latex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/siunitx\siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+) (C:\Users\nachi\AppData\Roaming\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (D:\installation_vault\latex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (D:\installation_vault\latex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/../mathematical_model/listener_tracking_model/listener_tracking_model.tex
+) (d:/workspace\final_year_project_latex\subfiles\chapter_5\mathematical_model\listener_tracking_model\listener_tracking_model.tex
 <../../.././images//stereo_vision_pixel_xl_xr.png, id=1, 910.40125pt x 341.275pt>
 File: ../../.././images//stereo_vision_pixel_xl_xr.png Graphic file (type png)
 <use ../../.././images//stereo_vision_pixel_xl_xr.png>
@@ -271,33 +266,32 @@ Package pdftex.def Info: ../../.././images//stereo_vision_pixel_xl_xr.png  used 
 (pdftex.def)             Requested size: 469.0pt x 175.81326pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<../../.././images//stereo_vision_geometry.png, id=11, 613.29124pt x 397.485pt>
+{C:/Users/nachi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<../../.././images//stereo_vision_geometry.png, id=10, 613.29124pt x 397.485pt>
 File: ../../.././images//stereo_vision_geometry.png Graphic file (type png)
 <use ../../.././images//stereo_vision_geometry.png>
 Package pdftex.def Info: ../../.././images//stereo_vision_geometry.png  used on input line 51.
 (pdftex.def)             Requested size: 229.5pt x 148.74112pt.
-<../../.././images//aa_criterion.png, id=12, 892.33376pt x 306.14375pt>
+<../../.././images//aa_criterion.png, id=11, 892.33376pt x 306.14375pt>
 File: ../../.././images//aa_criterion.png Graphic file (type png)
 <use ../../.././images//aa_criterion.png>
 Package pdftex.def Info: ../../.././images//aa_criterion.png  used on input line 70.
 (pdftex.def)             Requested size: 229.5pt x 78.73596pt.
- [2 </home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/../../.././images//stereo_vision_pixel_xl_xr.png> </home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/../../.././images//stereo_vision_geometry.png> </home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/../../.././images//aa_criterion.png>]) [3
+ [2 <d:/workspace/final_year_project_latex/images/stereo_vision_pixel_xl_xr.png> <d:/workspace/final_year_project_latex/images/stereo_vision_geometry.png> <d:/workspace/final_year_project_latex/images/aa_criterion.png>]) [3
 
-] (/home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.aux) ) 
+] (d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.aux) ) 
 Here is how much of TeX's memory you used:
- 5231 strings out of 479304
- 110032 string characters out of 5869780
- 371496 words of memory out of 5000000
- 22351 multiletter control sequences out of 15000+600000
- 413815 words of font info for 69 fonts, out of 8000000 for 9000
+ 5203 strings out of 480236
+ 109028 string characters out of 2888551
+ 361987 words of memory out of 3000000
+ 21689 multiletter control sequences out of 15000+200000
+ 545473 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,13n,92p,360b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /home/nachikamod/Drive/workspace/final_year_project/latex/subfiles/chapter_5/hardware_design_intro/hardware_design_intro.pdf (3 pages, 658385 bytes).
+ 76i,13n,80p,340b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+<D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/installation_vault/latex/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on d:/workspace\final_year_project_latex\subfiles\chapter_5\hardware_design_intro\hardware_design_intro.pdf (3 pages, 665727 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
